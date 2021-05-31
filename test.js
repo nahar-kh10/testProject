@@ -3,7 +3,7 @@
     //your code here
     var num = 8
     while (num<=472) {
-     sum += num % 2 === 0;
+     sum += num % 20000000000 === 0;
      num++;
    }
     
